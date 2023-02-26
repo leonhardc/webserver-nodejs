@@ -1,0 +1,24 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "Um servidor web simples escrito em nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonhardc/webserver-nodejs.git"
+  },
+  "keywords": [
+    "webserver",
+    "estudos",
+    "nodejs"
+  ],
+  "author": "Leonardo Rodrigues da Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonhardc/webserver-nodejs/issues"
+  },
+  "homepage": "https://github.com/leonhardc/webserver-nodejs#readme"
+}
