@@ -21,7 +21,7 @@ function onRequest(req, res){
     }
 
     fullPath = rootFolder + filename
-    extension = filename.substr(filename.lastIndexOf('.'), + 1)
+    extension = filename.substr(filename.lastIndexOf('.') + 1)
 
     fileHandler(fullPath, function(data){
         res.writeHead(200, {
